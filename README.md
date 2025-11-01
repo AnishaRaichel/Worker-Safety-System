@@ -6,7 +6,7 @@ An **AI-powered IoT solution** that continuously monitors industrial worker safe
 
 ## 🔍 Overview
 
--The project is built to detect risks such as fatigue, heat stress, proximity hazards, and unauthorized access. Using live sensor inputs and machine learning, alerts are generated and sent to AWS IoT Core, stored in DynamoDB, and displayed in a real-time dashboard.
+The project is built to detect risks such as fatigue, heat stress, proximity hazards, and unauthorized access. Using live sensor inputs and machine learning, alerts are generated and sent to AWS IoT Core, stored in DynamoDB, and displayed in a real-time dashboard.
 ---
 
 ## 🧠 Features
@@ -20,6 +20,7 @@ An **AI-powered IoT solution** that continuously monitors industrial worker safe
 
 - Real-Time Dashboard – Streamlit-based interface visualizing alerts, metrics, and trends.
 ---
+
 
 
 
